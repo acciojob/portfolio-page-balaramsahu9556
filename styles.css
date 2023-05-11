@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+header >img{
+	width:100px;
+}
+a >img{
+	width:30px;
+}
